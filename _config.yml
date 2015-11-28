@@ -1,0 +1,14 @@
+layout_spectrum: 0.3315412
+typography_spectrum: 0.5806451
+color:
+  saturation: 0.476061
+  lightness: 0.8106048
+  brandStrength: 0.6935484
+  brandColors:
+    - '#42321F'
+    - '#886F53'
+    - '#BB9B6F'
+    - '#FFFFFC'
+    - '#426691'
+  rhythmicContrast: 0.3855484
+name: Love Your Enemy
